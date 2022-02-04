@@ -1,0 +1,153 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.nav {
+  height: 80px;
+  width: 100%;
+  background-color: blueviolet;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(33, 33, 53);
+}
+
+.info {
+  height: 400px;
+  width: 100%;
+  display: flex;
+}
+
+.afbeelding {
+  height: 300px;
+  width: 30%;
+  margin-top: 50px;
+  margin-left: 8%;
+  margin-right: 10%;
+  background-color: blueviolet;
+  display: flex;
+  border-radius: 100%;
+}
+
+.mikey {
+  height: 95%;
+  width: 95%;
+  margin-left: 9px;
+  margin-top: 8px;
+  border-radius: 50%;
+}
+
+.tekst {
+  height: 400px;
+  width: 60%;
+  background-color: rgb(45, 45, 65);
+  display: flex;
+}
+
+.infoTekst {
+  margin-left: 5px;
+  color: blueviolet;
+}
+
+img {
+  height: 350px;
+  width: 100%;
+  display: block;
+}
+
+.vakken {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  background-color: rgb(45, 45, 65);
+}
+
+.html {
+  height: 300px;
+  width: 33%;
+  margin-top: 25px;
+}
+
+.java {
+  height: 300px;
+  width: 33%;
+  margin-top: 25px;
+}
+
+.python {
+  height: 300px;
+  width: 32%;
+  margin-top: 25px;
+}
+
+.projecten {
+  height: 400px;
+  width: 100%;
+  display: flex;
+}
+
+.htmlCode {
+  height: 300px;
+  width: 33%;
+  margin-top: 25px;
+  margin-left: 5px;
+}
+
+.javaCode {
+  height: 300px;
+  width: 33%;
+  margin-top: 25px;
+}
+
+.pythonCode {
+  height: 300px;
+  width: 33%;
+  margin-top: 25px;
+}
+
+.projectTekst {
+  height: 400px;
+  width: 100%;
+  display: flex;
+}
+
+.htmlTekst {
+  height: 300px;
+  width: 33%;
+  margin-top: 10px;
+  text-align: center;
+  color: blueviolet;
+}
+
+.javaTekst {
+  height: 300px;
+  width: 33%;
+  margin-top: 10px;
+  text-align: center;
+  background-color: rgb(45, 45, 65);
+  color: blueviolet;
+}
+
+.pythonTekst {
+  height: 300px;
+  width: 33%;
+  margin-top: 10px;
+  text-align: center;
+  color: blueviolet;
+}
+
+.balk {
+  height: 80px;
+  width: 100%;
+  background-color: blueviolet;
+}
+
+.github {
+  height: 60px;
+  width: 60px;
+  margin-left: 580px;
+}
